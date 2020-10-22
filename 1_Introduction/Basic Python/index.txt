@@ -1,0 +1,29 @@
+--- 2 Run ----
+
+shell:
+
+open shell by searching python terminal
+we can type python commands
+>>>exit() and enter to close
+
+File
+
+create file with .py extension : filename.py
+open command prompt by searching cmd 
+cd ..
+cd ..
+so that we will come to c drive
+change directry by using cd command
+select directory where python is present.
+>cd C:\Users\b5061\Desktop\AI and ML\Python
+>python filename.py
+
+----- Install jupyter notebook -----
+
+-This is for simplification of execution of python code. 
+>pip install notebook
+this above command needs to execute on command prompt (cmd)
+
+Open jupyter notebook
+>cd C:\Users\b5061\Desktop\AI and ML
+>jupyter notebook
